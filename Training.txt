@@ -5,3 +5,5 @@ Online and Offline
 Corporate Training
 
 test the pull
+
+test the fetch and merge
